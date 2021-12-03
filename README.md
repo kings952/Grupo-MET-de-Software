@@ -1,4 +1,4 @@
-# METODOLOGÍA DE DESARROLLO DE SOFTWARE NRC 7342 - GRUPO 3
+# METODOLOGÍA DESARROLLO DE SOFTWARE NRC 7342 - GRUPO 3
 
 Proyecto Actualización Página Web - Departamento de CienciaS de la Computación - ESPE
 
